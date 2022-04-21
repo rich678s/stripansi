@@ -19,7 +19,7 @@ $ go get -u github.com/acarl005/stripansi
 ```go
 import (
 	"fmt"
-	"github.com/acarl005/stripansi"
+	"github.com/rich678s/stripansi"
 )
 
 func main() {
